@@ -1,0 +1,43 @@
+CSCI100,Introduction to Programming,,
+CSCI101,Introduction to Computer Science,CSCI100,
+CSCI150,Discrete Structures,CSCI101,
+CSCI160,Introduction to Scripting,CSCI101,
+CSCI200,Data Structures and Algorithms I,CSCI101,CSCI150
+CSCI201,Data Structures and Algorithms II,CSCI200,
+CSCI210,Object-Oriented Programming,CSCI200,
+CSCI220,Computer Organization and Architecture,CSCI150,
+CSCI230,Operating Systems,CSCI220,
+CSCI240,Introduction to Databases,CSCI201,
+CSCI250,Web Development I,CSCI210,
+CSCI251,Web Development II,CSCI250,
+CSCI260,Introduction to Networking,CSCI220,
+CSCI270,Mobile Architecture and Programming,CSCI210,
+CSCI280,Introduction to Cybersecurity,CSCI260,
+CSCI290,Emerging Trends in Computer Science,CSCI201,
+CSCI300,Analysis and Design,CSCI201,CSCI150
+CSCI301,Advanced Data Structures,CSCI300,
+CSCI310,Client-Server Development,CSCI240,CSCI250
+CSCI320,Software Development Life Cycle,CSCI301,
+CSCI330,Full Stack Development I,CSCI250,CSCI240
+CSCI331,Full Stack Development II,CSCI330,
+CSCI340,Software Security,CSCI280,CSCI300
+CSCI350,Software Quality Assurance,CSCI320,
+CSCI360,Applied Cryptography,CSCI280,
+CSCI370,Cloud Computing Foundations,CSCI230,CSCI260
+CSCI380,Mobile Application Development,CSCI270,
+CSCI390,Computer Graphics and Visualization,CSCI300,
+CSCI400,System Analysis and Design,CSCI320,CSCI310
+CSCI401,Human-Computer Interaction,CSCI390,
+CSCI410,Advanced Cybersecurity,CSCI340,CSCI360
+CSCI420,Network Security,CSCI260,CSCI360
+CSCI430,Artificial Intelligence Foundations,CSCI301,
+CSCI440,Machine Learning,CSCI430,
+CSCI450,Distributed Systems,CSCI230,CSCI370
+CSCI460,Advanced Database Management,CSCI240,CSCI310
+CSCI470,Capstone Project Preparation,CSCI400,CSCI350
+CSCI480,Professional Practices in Computing,CSCI470,
+CSCI490,IT Project Management,CSCI400,
+CSCI499,Computer Science Capstone,CSCI470,CSCI480
+MATH201,Discrete Mathematics,,
+MATH211,Statistics for Computing,MATH201,
+ENGL201,Technical Writing,,
